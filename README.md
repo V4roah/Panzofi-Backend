@@ -5,7 +5,7 @@ Aquí se maneja la lógica para la creación de usuarios, la autenticación medi
 🚀 Instalación y Configuración
 
 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-usuario/panzofi-backend.git
+git clone https://github.com/V4roah/panzofi-backend.git
 cd panzofi-backend/backend
 
 
