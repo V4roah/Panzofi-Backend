@@ -1,4 +1,5 @@
-Backend - Panzofi (Django REST Framework)
+🛠️ Backend - Panzofi (Django REST Framework)
+
 Este es el backend del proyecto Panzofi, desarrollado con Django y Django REST Framework (DRF).
 Aquí se maneja la lógica para la creación de usuarios, la autenticación mediante tokens, la gestión de la Landing Page, el seguimiento de sesiones y el registro de interacciones de los usuarios.
 
