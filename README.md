@@ -3,6 +3,7 @@ Este es el backend del proyecto Panzofi, desarrollado con Django y Django REST F
 Aquí se maneja la lógica para la creación de usuarios, la autenticación mediante tokens, la gestión de la Landing Page, el seguimiento de sesiones y el registro de interacciones de los usuarios.
 
 🚀 Instalación y Configuración
+
 1️⃣ Clonar el repositorio
 git clone https://github.com/tu-usuario/panzofi-backend.git
 cd panzofi-backend/backend
